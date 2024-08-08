@@ -11,8 +11,12 @@
             "id": "7f5e20c6427bafd4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Welcome.md"
+              }
             }
           },
           {
@@ -151,8 +159,9 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "1d662b8f278e3e8e",
+  "active": "7f5e20c6427bafd4",
   "lastOpenFiles": [
+    "daily/2024-08-08.md",
     "notes/Kubernetes.md",
     "notes/Aria Automation.md",
     "resources/Templates/My Daily Note.md",
@@ -162,7 +171,6 @@
     "My Dashboard.md",
     "My Tasks.md",
     "projects/vSphere 8.md",
-    "daily/2024-08-08.md",
     "projects",
     "resources/Templates/Weekly Notes Template.md",
     "resources/Templates/Topic Template.md",
