@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "388c931b54ee837a",
+        "id": "4f68b8ccb281af17",
         "type": "tabs",
         "children": [
           {
-            "id": "7c91ad67e3ecd29b",
+            "id": "6f452ffb0f578888",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2024-08-12.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2024-08-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2024-08-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "daily/2024-08-12.md"
-              }
+              "state": {}
             }
           },
           {
@@ -159,10 +151,10 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "7c91ad67e3ecd29b",
+  "active": "6f452ffb0f578888",
   "lastOpenFiles": [
-    "My Dashboard.md",
     "daily/2024-08-12.md",
+    "My Dashboard.md",
     "My Tasks.md",
     "Dashboard Examples.md",
     "worklog/Jacobs Work Logs 2024-Aug-4-🪴W32.md",

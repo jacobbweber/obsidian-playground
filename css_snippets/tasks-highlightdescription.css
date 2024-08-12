@@ -1,0 +1,6 @@
+.task-list-item[data-task-priority="highest"] .task-description {
+    background: #ffbfcc;
+    border-radius: 10px;
+    padding: 2px 8px;
+    color: black
+}
