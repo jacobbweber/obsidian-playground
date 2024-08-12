@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a87371738ba171bd",
+        "id": "388c931b54ee837a",
         "type": "tabs",
         "children": [
           {
-            "id": "00c454fe0d679522",
+            "id": "7c91ad67e3ecd29b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Dashboard.md",
+                "file": "daily/2024-08-12.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Dashboard.md",
+                "file": "daily/2024-08-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Dashboard.md",
+                "file": "daily/2024-08-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Dashboard.md"
+                "file": "daily/2024-08-12.md"
               }
             }
           },
@@ -159,12 +159,12 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "00c454fe0d679522",
+  "active": "7c91ad67e3ecd29b",
   "lastOpenFiles": [
+    "My Dashboard.md",
     "daily/2024-08-12.md",
     "My Tasks.md",
     "Dashboard Examples.md",
-    "My Dashboard.md",
     "worklog/Jacobs Work Logs 2024-Aug-4-🪴W32.md",
     "worklog/2024/Jacobs Work Logs 2024-Jul-28-🪴W31.md",
     "templates/My Daily Note.md",
